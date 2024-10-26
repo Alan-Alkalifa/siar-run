@@ -16,7 +16,8 @@ const FAQ = forwardRef((props, ref) => {
     "Kapan saya bisa mulai berlari?",
     "Bagaimana cara mencatat jarak lari saya?",
     "Apakah saya bisa mengajak teman untuk ikut?",
-    "Apakah semua peserta akan mendapatkan medali dan racepack?"
+    "Apakah semua peserta akan mendapatkan medali dan racepack?",
+    "Bagaimana sistem lomba konten yang diadakan?"
   ];
 
   const answers = [
@@ -25,7 +26,8 @@ const FAQ = forwardRef((props, ref) => {
     "Kamu bisa lari kapan saja! Tapi ingat ya runners, sesuaikan dengan jangka waktu berlari yang telah ditentukan yaitu pada 22 Desember - 25 Desember 2024.",
     "Runners dapat mencatat jarak dan waktu menggunakan aplikasi Strava.",
     "Tentu saja! Kamu dapat mengajak teman, pasangan atau keluarga untuk berlari bersama atau bahkan membuat tim untuk mengikuti group package and get a cheaper price!.",
-    "Dont worry runners! Semua peserta akan mendapatkan medali finisher dan racepack sebelum tenggat waktu lari."
+    "Dont worry runners! Semua peserta akan mendapatkan medali finisher dan racepack sebelum tenggat waktu lari.",
+    "Semua partisipan yang telah mendaftar dapat berkesempatan untuk mengikuti lomba konten dengan total hadiah jutaan rupiah lho! Range Waktu Lomba 2 november - 25 desember"
   ];
 
   return (
