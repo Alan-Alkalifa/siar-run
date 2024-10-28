@@ -22,12 +22,12 @@ const FAQ = forwardRef((props, ref) => {
 
   const answers = [
     "Peserta dapat berlari di lokasi dan waktu yang dipilih serta mencatat waktu serta jarak menggunakan aplikasi atau perangkat pelacak secara mandiri.",
-    "Kamu bisa daftar melalui web resmi kami lho! Pilih menu Register Now lalu  pilih kategori lari yang ingin diikuti, isi formulir pendaftaran, dan lakukan pembayaran.",
+    "Kamu bisa daftar melalui web resmi kami lho! Pilih menu Registration lalu pilih kategori lari yang ingin diikuti, isi formulir pendaftaran, dan lakukan pembayaran.",
     "Kamu bisa lari kapan saja! Tapi ingat ya runners, sesuaikan dengan jangka waktu berlari yang telah ditentukan yaitu pada 22 Desember - 25 Desember 2024.",
     "Runners dapat mencatat jarak dan waktu menggunakan aplikasi Strava.",
     "Tentu saja! Kamu dapat mengajak teman, pasangan atau keluarga untuk berlari bersama atau bahkan membuat tim untuk mengikuti group package and get a cheaper price!.",
     "Dont worry runners! Semua peserta akan mendapatkan medali finisher dan racepack sebelum tenggat waktu lari.",
-    "Semua partisipan yang telah mendaftar dapat berkesempatan untuk mengikuti lomba konten dengan total hadiah jutaan rupiah lho! Range Waktu Lomba 2 november - 25 desember"
+    "Semua partisipan yang telah mendaftar dapat berkesempatan untuk mengikuti lomba konten dengan total hadiah jutaan rupiah lho! Range Waktu Lomba 22 november - 25 desember"
   ];
 
   return (
